@@ -103,6 +103,7 @@ footer {
     .menu {
         flex-direction: column;
         text-align: center;
+        font-size: 30px;
     }
     h1, h2 {
         margin: 0 2%;
