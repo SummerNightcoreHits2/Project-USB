@@ -24,7 +24,7 @@ body {
 
 .title {
     color: #2eced4;
-    font-size: 8rem;
+    font-size: 20vw;
     font-family: sans-serif;
     text-shadow: 3px 3px #21a4a8, 6px 6px #197a7e;
 }
@@ -97,15 +97,4 @@ footer {
     margin: 5px 0 0;
     padding: 10px;
     font-size: 150%;
-}
-
-@media screen and (max-width: 550px){
-    .menu {
-        flex-direction: column;
-        text-align: center;
-        font-size: 30px;
-    }
-    h1, h2 {
-        margin: 0 2%;
-    }
 }
